@@ -1,0 +1,17 @@
+{
+  "name": "zufichris/php-template",
+  "description": "php template",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Author Name",
+      "email": "author@example.com"
+    }
+  ],
+  "license": "MIT"
+}
